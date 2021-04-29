@@ -1,0 +1,55 @@
+.purchasetitle{
+    background-color: white;
+  
+margin: 0;
+    width:100%;
+
+}
+
+.purchasetitle h1{
+    color:black;
+    font-family: "system-ui";
+}
+
+.purchasebody{
+    background-color: white;
+    width: 100%;
+    margin: 0;
+    height:1000px;
+    
+}
+.purchasebody h1{
+  color:black;
+  font-family: "system-ui";
+}
+.purchasebodysection2{
+    background-color: white;
+  
+padding: 0;
+    width:100;
+}
+.purchasebodysection2 h1{
+    color:black;
+    font-family: "system-ui";
+}
+.purchasebodycol{
+
+}
+.purchaseform{
+    width:40%;
+    margin-left:180px;
+}
+
+.purchaseform2{
+    
+    width:60%;
+  
+    margin-left:30px;
+}
+.showtable{
+    width:60%;
+    padding-left: 25px;
+}
+.add{
+    padding-top:40%;
+}

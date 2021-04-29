@@ -1,0 +1,17 @@
+body{
+    background: url("watch4.jpg") no-repeat center center fixed;
+    background-color: #464646;
+  
+}
+#img-logo{
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+    width: 380px;
+}
+#login-modal input[type=text],input[type=password]{
+    margin-top: 10px;
+}

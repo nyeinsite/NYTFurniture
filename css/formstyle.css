@@ -1,0 +1,143 @@
+body{
+    background-image:url("background2.jpg");
+    background-size: cover;
+    background-position: cover cover;
+    background-attachment: fixed;
+}
+
+#ui{
+    background-color: #5d5d59;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+#ui label,h1{
+    color:white;
+    font-family: "system-ui";
+
+}
+
+.alreadyexist{
+    padding-top:20px;
+    font-family: "system-ui";
+}
+
+.btn{
+    margin-top: 10px;
+  margin-left: 25px;
+  size: 30px;
+}
+
+  .h1member{
+      color:black;
+      font-family: "system-uis";
+  }
+  .tbody{
+      overflow: scroll;
+  }
+  table{
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    width:900px; height:500px; overflow-y:auto;background-color:white;
+  }
+  .footer {
+    width: 100%;
+    background: #00121b;
+    display: block;
+    border: 1px solid white;
+  }
+
+  .innterfooter {
+    width: 95%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+
+  .footeritems {
+    width: 25%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-family: "system-ui";
+  }
+
+  .footeritems h1 {
+    padding: 10px 0;
+    font-size: 25px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "system-ui";
+  }
+
+  .footeritems p {
+    color: grey;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    font-family: "system-ui";
+  }
+
+  .footeritems h2 {
+    margin: 10px 0;
+    color: grey;
+    font-size: 16px;
+    font-weight: lighter;
+    text-transform: uppercase;
+    font-family: "system-ui";
+  }
+
+  .border {
+    height: 2px;
+    width: 40px;
+    background: #ff9800;
+  }
+
+  ul {
+    list-style: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    font-family: "system-ui";
+  }
+
+  ul a {
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    transition: 0.3s;
+    font-family: "system-ui";
+  }
+
+  ul a:hover {
+    color: #ff9800;
+  }
+
+  ul li {
+    margin: 10px 0;
+    height: 25px;
+    font-family: "system-ui";
+  }
+
+  .socialmedia {
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    font-family: "system-ui";
+  }
+
+  .socialmedia a {
+    text-decoration: none;
+    font-family: "system-ui";
+  }
+
+  .footerbottom {
+    padding: 10px;
+    background: #3d545f;
+    color: #fff;
+    font-size: 12px;
+    font-family: "system-ui";
+  }

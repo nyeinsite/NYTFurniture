@@ -1,0 +1,43 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-position: cover cover;
+    background-attachment: fixed;
+}
+
+#ui{
+    background-color: #5d5d59;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+#ui label,h1{
+    color:white;
+    font-family: "system-ui";
+  
+}
+
+.alreadyexist{
+    padding-top:20px;
+    font-family: "system-ui";
+}
+
+.btn{
+    margin-top: 10px;
+  margin-left: 25px;
+  size: 30px;
+}
+
+  .h1member{
+      color:black;
+      font-family: "system-uis";
+  }
+  .tbody{
+      overflow: scroll;
+  }
+  table{
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    width:900px; height:500px; overflow-y:auto;background-color:white;
+  }
